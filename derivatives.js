@@ -1,7 +1,7 @@
 var fs = require('fs'),
     http = require('http'),
     url = 'http://Modok:8090/api/v1',
-    assetId = 334,
+    assetId = 335,
     path = '/catalog/4903AB2A-16E2-9444-9B03-DFE0EA598C7B/asset/'+assetId+'/_derivative?',
     session = 'session=TOKEN-fb2db149-6b45-47e3-a651-8d074345c6eb',
     async = 'async=false',
